@@ -77,6 +77,7 @@ Blog post:<a href="http://wp.me/p3mRWu-11L" target="_blank">Cross-platform Singl
 </li>
 <li>Host your application using <strong>Kestrel</strong> by typing the following command while at src/PhotoGallery:
 <ul>
+
 <li>dotnet run</li>
 </ul>
 </li>
@@ -127,3 +128,4 @@ If you think that any information you obtained here is worth of some money and a
 </table>
 <h2>License</h2>
 Code released under the <a href="https://github.com/chsakell/aspnet5-angular2-typescript/blob/master/licence" target="_blank"> MIT license</a>.
+<h2>Hello World>/h2>
