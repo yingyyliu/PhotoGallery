@@ -128,4 +128,3 @@ If you think that any information you obtained here is worth of some money and a
 </table>
 <h2>License</h2>
 Code released under the <a href="https://github.com/chsakell/aspnet5-angular2-typescript/blob/master/licence" target="_blank"> MIT license</a>.
-<h2>Hello World</h2>
